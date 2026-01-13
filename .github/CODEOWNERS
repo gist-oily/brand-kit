@@ -1,0 +1,14 @@
+# Default owner for everything
+* @gist-oily
+
+# Documentation
+README.md @gist-oily
+docs/** @gist-oily
+
+# Common brand asset folders (adjust to match the repo if needed)
+assets/** @gist-oily
+logos/** @gist-oily
+logo/** @gist-oily
+icons/** @gist-oily
+palette/** @gist-oily
+illustrations/** @gist-oily
