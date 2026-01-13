@@ -8,6 +8,13 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 
 <!-- Badge row 1 - status -->
 
+## Brand usage
+
+These assets are intended for consistent use across products, documentation, and community materials.
+
+Please avoid modifying logo proportions, colors, or adding visual effects unless explicitly allowed.
+When possible, prefer original source files for exports and resizing.
+
 [![GitHub contributors](https://img.shields.io/github/contributors/base-org/brand-kit)](https://github.com/base-org/brand-kit/graphs/contributors)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/base-org/brand-kit)](https://github.com/base-org/brand-kit/graphs/contributors)
 [![GitHub Stars](https://img.shields.io/github/stars/base-org/brand-kit.svg)](https://github.com/base-org/brand-kit/stargazers)
